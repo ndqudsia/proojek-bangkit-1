@@ -6,4 +6,4 @@
 
 ## Run Streamlit
 🔗[Dashboard Syntax] (https://github.com/ndqudsia/proojek-bangkit-1/blob/main/dashboard_naqud.py)
-🖥️[Dashboard] (https://projek1bangkit.streamlit.app/)
+🖱️[Dashboard] (https://projek1bangkit.streamlit.app/)
